@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+# v1.5.113
+## (2020-12-08)
+
+* Change some border colors to have higher contrast [Lorenzo Alberto Maria Ambrosi]
+
+<details>
+<summary> Update etcher-sdk from 5.1.10 to 5.1.11 [Alexis Svinartchouk] </summary>
+
+> ## etcher-sdk-5.1.11
+> ### (2020-12-07)
+> 
+> * Don't use the O_SYNC flag for block devices, only O_DIRECT [Alexis Svinartchouk]
+> 
+</details>
+
+
+<details>
+<summary> Update sys-class-rgb-led from 2.1.1 to 3.0.0 [Alexis Svinartchouk] </summary>
+
+> ## sys-class-rgb-led-3.0.0
+> ### (2020-12-03)
+> 
+> * Add example etcher-pro rainbow animation [Alexis Svinartchouk]
+> * Use one setInterval instead of a loop for each led, t in seconds [Alexis Svinartchouk]
+> 
+</details>
+
 # v1.5.112
 ## (2020-12-02)
 
